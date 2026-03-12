@@ -1,0 +1,34 @@
+{
+
+"results": [
+    {
+"id": 1,
+"home": "React Rangers",
+"away": "Angular Athletic",
+"homeScore": 2,
+"awayScore": 0
+},
+{
+"id": 2,
+"home": "Arsenal",
+"away": "Tottenham",
+"homeScore": 4,
+"awayScore": 1
+},
+{
+"id": 3,
+"home": "Man U",
+"away": "Tottenham",
+"homeScore": 1,
+"awayScore": 1
+},
+{
+"id": 4,
+"home": "Newcastle",
+"away": "Brighton",
+"homeScore": 2,
+"awayScore": 4
+}
+]
+
+}
